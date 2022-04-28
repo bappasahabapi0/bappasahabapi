@@ -1,6 +1,6 @@
 ![Github Banner](bappa2.png)
 
-![Profile views](https://gpvc.arturio.dev/bappabappa)<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
+![Profile views](https://gpvc.arturio.dev/bappsahabapi)<a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a>
 ## Hi 👋, I'm [BappaSaha](https://bappa-saha.web.app)
  
 
